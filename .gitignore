@@ -1,0 +1,9 @@
+*.mat
+*.jpg
+*.png
+*.pdf
+*.asv
+*.weights
+*.onnx
+
+!images/*.jpg
